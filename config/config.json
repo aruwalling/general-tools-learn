@@ -1,0 +1,18 @@
+{
+    "validators":[
+        {
+            "cmd":"md5sum /home/pi/Workspaces/TestClass.java",
+            "hosts":[
+                {
+                    "hostname":"test-hostname-pi", "username":"pi", "password":"pi"
+                },
+                {
+                    "hostname":"test-hostname-pi", "username":"pi", "password":"pi"
+                },
+                {
+                    "hostname":"test-hostname-pi", "username":"pi", "password":"pi"
+                }
+            ]
+        }
+    ]
+}
